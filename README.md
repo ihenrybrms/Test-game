@@ -1,2 +1,2 @@
 # Test-game
-Just testing my games
+Warning some of these games will not work these are all test projects!!!
